@@ -1,0 +1,4 @@
+name: EasyDeathCoord
+version: '1.0-SNAPSHOT'
+main: me.maxfield.easyDeathCoord.Main
+api-version: '1.21'
