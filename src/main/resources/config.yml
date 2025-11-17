@@ -1,0 +1,2 @@
+deathmessage: '%player_name%死在了 %player_world% %player_x% %player_y% %player_z%'
+broadcast: true

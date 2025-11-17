@@ -2,3 +2,20 @@ name: EasyDeathCoord
 version: '1.0-SNAPSHOT'
 main: me.maxfield.easyDeathCoord.Main
 api-version: '1.21'
+prefix: EasyDeathCoord
+authors:
+  - Maxfield
+depend: [PlaceholderAPI]
+commands:
+  easydeathcoord:
+    description:
+    aliases:
+      - ezdc
+    usage: '/easydeathcoord reload /easydeathcoord'
+permissions:
+  easydeathcoord.use:
+    description: 允许玩家使用指令
+    default: true
+  easydeathcoord.reload:
+    description: 允许使用重载配置指令
+    default: false
